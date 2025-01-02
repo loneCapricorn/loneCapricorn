@@ -8,17 +8,14 @@ I am 25 y.o. Front-End developer with also interests to Back-End development wit
 - 📱 Phone: +35987 74 33 670
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mehmed-yunuz-7348a7300)
 
-
-  
 ## 🚀 Skills
 
-- **Languages:** *JavaScript, TypeScript*
-- **Frameworks:** *Next.js, Express*
-- **Libraries:** *React*
-- **Database:** *Firebase*
-- **Technologies:** *Tailwind CSS, SASS, HTML5, CSS3*
+- **Languages:** _JavaScript, TypeScript_
+- **Frameworks:** _Next, Express_
+- **Libraries:** _React_
+- **Database:** _Firebase_
+- **Technologies:** _Tailwind CSS, SASS, HTML5, CSS3_
 - **Soft Skills:** Creativity, Motivation, Teamwork, Innovation
-
 
 ## 📄 Know about my experiences?
 
@@ -26,7 +23,7 @@ I am 25 y.o. Front-End developer with also interests to Back-End development wit
 
 ## 🌐 Interests
 
-- 🏍️ **Riding**
+- 🏍️ **Motorbike**
 - 🎮 **Gaming**
 - 💪 **Gym**
 - 🏞️ **Trekking**
