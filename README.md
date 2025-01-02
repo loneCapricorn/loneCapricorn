@@ -17,9 +17,6 @@ I am 25 y.o. Front-End developer with also interests to Back-End development wit
 - **Technologies:** _Tailwind CSS, SASS, HTML5, CSS3_
 - **Soft Skills:** Creativity, Motivation, Teamwork, Innovation
 
-## 📄 Know about my experiences?
-
-👉 [**CV**](https://app.enhancv.com/share/45c8d2c8/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
 ## 🌐 Interests
 
